@@ -1,0 +1,1 @@
+A site for sharing files within a intranet such as within a company.
